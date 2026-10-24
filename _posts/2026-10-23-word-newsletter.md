@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Word – Frequently Asked Questions
+title: Microsoft Word – Newsletter formatting tips
 date: 2026-10-23 10:00:00 -0000
 category: Word
 ---
