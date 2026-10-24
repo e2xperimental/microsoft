@@ -1,6 +1,9 @@
-
-
-<h1>Microsoft Word – Frequently Asked Questions</h1>
+---
+layout: post
+title: Microsoft Word – Frequently Asked Questions
+date: 2026-10-23 10:00:00 -0000
+category: Word
+---
 
 <details>
   <summary><strong>What does “Gutter” mean in Microsoft Word?</strong></summary>
