@@ -1,0 +1,21 @@
+theme: jekyll-theme-minimal
+title: Microsoft tips
+description: Description
+
+# Collections and post settings
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title:output_ext
+
+# Post settings
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+# URL configuration
+baseurl: "/microsoft"
+url: "https://e2xperimental.github.io"
